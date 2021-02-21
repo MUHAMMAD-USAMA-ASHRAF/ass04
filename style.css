@@ -1,0 +1,162 @@
+.navbar{
+    text-align: center;
+    word-spacing: 10px;
+    text-decoration: none ;
+    font-size: 15px;
+    height: 20px;
+    background-color:  rgba(220, 72, 72, 0.755);
+    
+     
+
+}
+.elements:hover{
+
+    background-color: grey;
+}
+
+
+.logo{
+
+    text-align-last: justify;
+    /* margin: 150px; */
+    width: 250px;
+    padding-left: 590px;
+    display: flex;
+     /* justify-content: center; */
+     align-items: center;
+
+}
+.date{
+
+    text-align: center;
+    padding-left: 75px;
+}
+.navbartwo{
+    text-align: center;
+    word-spacing: 5px;
+    text-decoration: none ;
+    font-size: 15px;
+    
+}
+.iconic:hover{
+
+    background-color: grey;
+}
+.latest:hover{
+   
+
+    background-color: grey;
+}
+
+.qw:hover{
+
+
+    background-color: coral;
+}
+/* .main{
+    align-content: center;
+    justify-content: center;
+} */
+.left{
+    border: crimson;
+    padding-right: 500px;
+    width: 450px;
+    /* height: 00px; */
+    padding-left: 0px;
+}
+.as{
+
+    padding-left: 350px;
+}
+
+.cv{
+    padding-left: 150px;
+    align-content: center;
+    word-spacing: 200px;
+    width: 100px;
+    
+    justify-content: flex;
+}
+.ccv{
+    width: 500px;
+    
+}
+.cvv{
+    width: 500px;
+    /* text-align-last: right; */
+    padding-left: 700px;
+  
+    vertical-align: top;
+}
+
+.live{
+
+    background-color: darkgrey;
+    /* align-content: flex-start; */
+    
+    width: 500px;
+    
+    
+  
+
+}
+.center{
+
+    border: black;
+    /* padding-left: 200px; */
+   
+    justify-content: center;
+   
+
+}
+.center.css{
+
+position: relative;
+top: -15px;
+
+}
+.rigth{
+    /* align-content: rigth; */
+    /* padding-right: 750px; */
+    /* padding-left: -50px; */
+    /* padding-bottom: 900px; */
+    width: 300px;
+    height: 100px;
+}
+.main{
+
+     display: flex;
+     justify-content: center;
+     word-spacing: 0%;
+  
+}
+
+h2{
+    padding-left: 250px;
+}
+form{
+    padding-left: 250px;
+}
+
+.name:hover{
+
+    border-color: blue;
+    
+}
+.email:hover{
+    border-color: blue;
+}
+.num:hover{
+    border-color: blue;
+}
+.city:hover{
+    border-color: blue;
+}
+.comment:hover{
+    border-color: blue;
+}
+.button{
+
+    border-color: rgb(93, 9, 89);
+   
+}
